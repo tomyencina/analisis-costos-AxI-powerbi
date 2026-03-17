@@ -37,5 +37,7 @@ Se construyó un tablero gerencial enfocado en la toma de decisiones financieras
 ## 💡 Insight de Negocio
 La contabilidad histórica subestima el peso real de los costos, generando márgenes de ganancia ficticios. Migrar el control de gestión a moneda homogénea permite ajustar la política de *pricing* y proteger el flujo de caja operativo frente a la licuación de los saldos monetarios.
 
----
-*Desarrollado por Tomás - Analista de Datos*
+## 👨‍💼 Sobre Mí
+Soy Tomás, Contador Público (UBA) apasionado por el Análisis de Datos. Combino mi profundo conocimiento del dominio contable, impositivo y financiero con herramientas tecnológicas (Python, SQL, Power BI) para transformar datos crudos en decisiones de negocio ágiles y precisas. 
+
+Conectá conmigo en [LinkedIn](www.linkedin.com/in/tomas-encina-217395202).
